@@ -4,8 +4,8 @@ require_once 'vendor/autoload.php';
 use Ivanb\FolderNesting\FolderNesting;
 
 $directories = [
-    'test',
-    'test2'
+    'testOne',
+    'testTwo'
 ];
 
 $parser = new FolderNesting();

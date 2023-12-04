@@ -1,0 +1,15 @@
+{
+    "name": "ivanb/folder-nesting",
+    "autoload": {
+        "psr-4": {
+            "Ivanb\\FolderNesting\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "hatsu",
+            "email": "ivanbein@outlook.com"
+        }
+    ],
+    "require": {}
+}
